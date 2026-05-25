@@ -1,0 +1,90 @@
+aid: datagrail
+name: DataGrail
+description: >-
+  DataGrail is a San Francisco-based data privacy platform founded in 2018 by
+  Daniel Barber and Ignacio Zendejas that helps enterprises automate privacy
+  operations and manage regulatory compliance risk across GDPR, CCPA, and other
+  global privacy regimes. The platform combines a Live Data Map for real-time
+  visibility into where personal data lives across an organization's SaaS and
+  cloud footprint, a Request Manager for orchestrating Data Subject Requests
+  (access, deletion, opt-out) across thousands of downstream systems, a
+  Consent solution for cookie and tracker compliance with automated
+  enforcement, a Risk Management module for privacy and AI risk assessments
+  (PIA, DPIA, AI risk), and an embedded agentic AI named Vera that surfaces
+  context-aware recommendations across the platform. DataGrail exposes a
+  documented public REST API at /api/v2 covering authentication, assessments,
+  privacy requests, opt-out requests, integrations, webhooks, integration
+  files, and consent audit logs, alongside an open-source ecosystem on GitHub
+  that includes mobile Consent SDKs for iOS and Android, a Google Tag Manager
+  consent template, and a Terraform AWS ECS module for deploying Request
+  Manager Agents. The company serves enterprise customers including Salesforce,
+  HubSpot, Okta, Netgear, and Dexcom, advertises 2,000+ pre-built integrations
+  across CRM, marketing, communications, HR, data, e-commerce, and support
+  platforms, holds patents on its Live Data Map and Smart Verification
+  technology, is SOC 2 and ISO certified, and is backed by Felicis Ventures,
+  HubSpot Ventures, Okta Ventures, Basis Set Ventures, Cloud Apps Capital,
+  Operator Collective, Thomson Reuters Ventures, and Third Point Ventures.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Privacy
+  - Data Privacy
+  - Privacy Operations
+  - Compliance
+  - GDPR
+  - CCPA
+  - Data Subject Requests
+  - DSR
+  - Consent Management
+  - Cookie Compliance
+  - Risk Management
+  - Privacy Impact Assessments
+  - DPIA
+  - AI Risk
+  - Data Mapping
+  - Data Discovery
+  - SaaS
+  - Enterprise
+url: https://raw.githubusercontent.com/api-evangelist/datagrail/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.datagrail.io
+  - type: About
+    url: https://www.datagrail.io/about/
+  - type: Documentation
+    url: https://docs.datagrail.io
+  - type: APIReference
+    url: https://docs.datagrail.io/api/v2
+  - type: Integrations
+    url: https://www.datagrail.io/integrations/
+  - type: Security
+    url: https://www.datagrail.io/security/
+  - type: TrustCenter
+    url: https://www.datagrail.io/trust-center/
+  - type: Status
+    url: https://status.datagrail.io/
+  - type: Changelog
+    url: https://docs.datagrail.io/changelog
+  - type: Blog
+    url: https://www.datagrail.io/blog/
+  - type: GitHub
+    url: https://github.com/datagrail
+  - type: Careers
+    url: https://www.datagrail.io/careers/
+  - type: Contact
+    url: https://www.datagrail.io/contact/
+  - type: Support
+    url: mailto:support@datagrail.io
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/datagrail
+  - type: Twitter
+    url: https://twitter.com/data_grail
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
