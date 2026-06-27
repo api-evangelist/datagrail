@@ -69,7 +69,7 @@ common:
     url: https://www.datagrail.io/trust-center/
   - type: Status
     url: https://status.datagrail.io/
-  - type: Changelog
+  - type: ChangeLog
     url: https://docs.datagrail.io/changelog
   - type: Blog
     url: https://www.datagrail.io/blog/
