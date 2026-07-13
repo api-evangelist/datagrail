@@ -2,11 +2,11 @@
   "repo": "datagrail",
   "feeds": [
     {
-      "source": "https://www.datagrail.io/blog/",
+      "source": "https://www.datagrail.io/blog/feed/",
       "feed_url": "https://www.datagrail.io/blog/feed/",
       "title": "",
       "saved": 0,
-      "method": "discovered"
+      "method": "feed"
     },
     {
       "source": "https://docs.datagrail.io/changelog/atom.xml",
@@ -23,6 +23,6 @@
       "method": "discovered"
     }
   ],
-  "post_count": 8,
-  "fetched": "2026-06-27T12:03:07Z"
+  "post_count": 26,
+  "fetched": "2026-07-11T11:50:51Z"
 }
