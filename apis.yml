@@ -56,6 +56,25 @@ tags:
   - AI Risk
   - Data Mapping
   - Data Discovery
+  - Software-as-a-Service
+  - Enterprise
+tags_raw:
+  - Privacy
+  - Data Privacy
+  - Privacy Operations
+  - Compliance
+  - GDPR
+  - CCPA
+  - Data Subject Requests
+  - DSR
+  - Consent Management
+  - Cookie Compliance
+  - Risk Management
+  - Privacy Impact Assessments
+  - DPIA
+  - AI Risk
+  - Data Mapping
+  - Data Discovery
   - SaaS
   - Enterprise
 url: https://raw.githubusercontent.com/api-evangelist/datagrail/refs/heads/main/apis.yml
