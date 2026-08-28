@@ -25,6 +25,17 @@ description: >-
   HubSpot Ventures, Okta Ventures, Basis Set Ventures, Cloud Apps Capital,
   Operator Collective, Thomson Reuters Ventures, and Third Point Ventures.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
