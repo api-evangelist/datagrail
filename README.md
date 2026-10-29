@@ -1,4 +1,4 @@
-# datagrail
+# DataGrail
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,93 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-DataGrail — data privacy platform (DSR, consent, risk management, live data map)
+DataGrail is a San Francisco-based data privacy platform founded in 2018 by Daniel Barber and Ignacio Zendejas that helps enterprises automate privacy operations and manage regulatory compliance risk across GDPR, CCPA, and other global privacy regimes. The platform combines a Live Data Map for real-time visibility into where personal data lives across an organization's SaaS and cloud footprint, a Request Manager for orchestrating Data Subject Requests (access, deletion, opt-out) across thousands of downstream systems, a Consent solution for cookie and tracker compliance with automated enforcement, a Risk Management module for privacy and AI risk assessments (PIA, DPIA, AI risk), and an embedded agentic AI named Vera that surfaces context-aware recommendations across the platform. DataGrail exposes a documented public REST API at /api/v2 covering authentication, assessments, privacy requests, opt-out requests, integrations, webhooks, integration files, and consent audit logs, alongside an open-source ecosystem on GitHub that includes mobile Consent SDKs for iOS and Android, a Google Tag Manager consent template, and a Terraform AWS ECS module for deploying Request Manager Agents. The company serves enterprise customers including Salesforce, HubSpot, Okta, Netgear, and Dexcom, advertises 2,000+ pre-built integrations across CRM, marketing, communications, HR, data, e-commerce, and support platforms, holds patents on its Live Data Map and Smart Verification technology, is SOC 2 and ISO certified, and is backed by Felicis Ventures, HubSpot Ventures, Okta Ventures, Basis Set Ventures, Cloud Apps Capital, Operator Collective, Thomson Reuters Ventures, and Third Point Ventures.
+
+**Areas:** Privacy · Privacy Operations · Compliance · GDPR · CCPA · DSAR · DSR · Consent Management · Cookie Compliance · Risk Management · Privacy Impact Assessments · DPIA
+
+## DataGrail on APIs.io
+
+Everything profiled for DataGrail is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/datagrail/](https://apis.io/providers/datagrail/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [datagrail](https://apis.io/servers/datagrail/datagrail/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Datagrail Domain Security](https://apis.io/security/datagrail/datagrail-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.datagrail.io)
+- [Documentation](https://docs.datagrail.io)
+- [API reference](https://docs.datagrail.io/api/v2)
+- [Changelog](https://docs.datagrail.io/changelog)
+- [Blog](https://www.datagrail.io/blog/)
+- [Security](https://www.datagrail.io/security/)
+- [Trust centre](https://www.datagrail.io/trust-center/)
+
+## API Evangelist rating
+
+**Kin Score 15.0** — emerging · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 51.7 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 31.6 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 7.9 |
+
+**Agent readiness 8.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | verified |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 10.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/datagrail/](https://apis.io/providers/datagrail/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for DataGrail: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/datagrail/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
